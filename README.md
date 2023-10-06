@@ -1,6 +1,6 @@
 # ResourceShare Front End
 
-This is the front end of our resourch share api, build with kivy, a Python framework for building GUIs
+This is the front end for our resource share api, built with kivy, a Python framework for building GUIs
 
 ## How to use it
 
